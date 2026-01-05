@@ -1,30 +1,33 @@
 # Sistema-Preditivo-para-Gestao-de-Medicamentos-Termolabeis
+
 Sistema analítico e preditivo para gestão de estoque de medicamentos termolábeis, com foco em redução de perdas, antecipação de riscos sanitários e suporte à decisão operacional em ambientes hospitalares e farmacêuticos.
 O projeto integra análise exploratória, engenharia de variáveis orientada ao negócio, modelo preditivo validado e alertas operacionais acionáveis.
 
+---
 
 🎯 Problema de Negócio
 
 Medicamentos termolábeis apresentam:
 
-Alto custo financeiro
+✔Alto custo financeiro
 
-Risco sanitário elevado
+✔Risco sanitário elevado
 
-Sensibilidade a falhas térmicas
+✔Sensibilidade a falhas térmicas
 
-Demanda variável
+✔Demanda variável - sazonalidade
 
 Sem previsões confiáveis e alertas antecipados, surgem:
 
-Perdas por vencimento
+✔Perdas por vencimento
 
-Ruptura de estoque
+✔Ruptura de estoque
 
-Compras emergenciais
+✔Compras emergenciais
 
-Ineficiência operacional
+✔Ineficiência operacional
 
+---
 💡 Solução
 
 ✔ Análise exploratória orientada ao negócio
@@ -35,43 +38,45 @@ Ineficiência operacional
 ✔ Sistema de alertas (🟢 🟡 🔴)
 ✔ Resumo executivo com impacto financeiro
 
+---
+
 🧠 Metodologia
 
-Limpeza e padronização dos dados
+✔Limpeza e padronização dos dados
 
-Análise exploratória (EDA)
+✔Análise exploratória (EDA)
 
-Criação de features baseadas em regras reais
+✔Criação de features baseadas em regras reais
 
-Treinamento do modelo preditivo
+✔Treinamento do modelo preditivo
 
-Validação estatística
+✔Validação estatística
 
-Implementação de alertas
+✔Implementação de alertas
 
-Geração de insights executivos
+✔Geração de insights executivos
+
+---
+
 📊 Principais Resultados
 
-Identificação antecipada de produtos críticos
+✔Identificação antecipada de produtos críticos
 
-Quantificação do valor financeiro em risco
+✔Quantificação do valor financeiro em risco
 
-Modelo com boa capacidade de generalização
+✔Modelo com boa capacidade de generalização
 
-Alertas simples, interpretáveis e acionáveis
+✔Alertas simples, interpretáveis e acionáveis
 
 📌 Métricas como ROC-AUC e Recall foram priorizadas devido ao alto custo de falsos negativos em ambientes hospitalares.
 
+---
 🛠️ Tecnologias
 
-Python
-
-Pandas / NumPy
-
-Scikit-learn
-
-Matplotlib / Seaborn
-
-Jupyter Notebook
+✔Python
+✔Pandas / NumPy
+✔Scikit-learn
+✔Matplotlib / Seaborn
+✔Jupyter Notebook
 
 ReportLab (PDF)
