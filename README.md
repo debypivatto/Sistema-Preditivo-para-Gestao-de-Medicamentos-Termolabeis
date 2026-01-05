@@ -10,21 +10,15 @@ O projeto integra análise exploratória, engenharia de variáveis orientada ao 
 Medicamentos termolábeis apresentam:
 
 ✔Alto custo financeiro
-
 ✔Risco sanitário elevado
-
 ✔Sensibilidade a falhas térmicas
-
 ✔Demanda variável - sazonalidade
 
 Sem previsões confiáveis e alertas antecipados, surgem:
 
 ✔Perdas por vencimento
-
 ✔Ruptura de estoque
-
 ✔Compras emergenciais
-
 ✔Ineficiência operacional
 
 ---
@@ -43,17 +37,11 @@ Sem previsões confiáveis e alertas antecipados, surgem:
 🧠 Metodologia
 
 ✔Limpeza e padronização dos dados
-
 ✔Análise exploratória (EDA)
-
 ✔Criação de features baseadas em regras reais
-
 ✔Treinamento do modelo preditivo
-
 ✔Validação estatística
-
 ✔Implementação de alertas
-
 ✔Geração de insights executivos
 
 ---
@@ -61,16 +49,21 @@ Sem previsões confiáveis e alertas antecipados, surgem:
 📊 Principais Resultados
 
 ✔Identificação antecipada de produtos críticos
-
 ✔Quantificação do valor financeiro em risco
-
 ✔Modelo com boa capacidade de generalização
-
 ✔Alertas simples, interpretáveis e acionáveis
-
 📌 Métricas como ROC-AUC e Recall foram priorizadas devido ao alto custo de falsos negativos em ambientes hospitalares.
 
 ---
+💼 Aplicações
+
+✔Gestão hospitalar
+✔Logística farmacêutica
+✔Supply Chain Analytics
+✔Saúde baseada em dados
+
+---
+
 🛠️ Tecnologias
 
 ✔Python
@@ -79,4 +72,8 @@ Sem previsões confiáveis e alertas antecipados, surgem:
 ✔Matplotlib / Seaborn
 ✔Jupyter Notebook
 
-ReportLab (PDF)
+---
+
+Disponivel apresentação em PDF (PDF)
+
+---
