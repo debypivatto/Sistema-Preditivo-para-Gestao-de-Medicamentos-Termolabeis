@@ -1,4 +1,4 @@
-# 🧪Sistema Preditivo para Gestao de Medicamentos Termolábeis
+# 🧪🌡️ Sistema Preditivo para Gestao de Medicamentos Termolábeis
 
 Sistema analítico e preditivo para gestão de estoque de medicamentos termolábeis, com foco em redução de perdas, antecipação de riscos sanitários e suporte à decisão operacional em ambientes hospitalares e farmacêuticos.
 O projeto integra análise exploratória, engenharia de variáveis orientada ao negócio, modelo preditivo validado e alertas operacionais acionáveis.
