@@ -96,6 +96,6 @@ Sem previsões confiáveis e alertas antecipados, surgem:
 
 ---
 
-Disponivel apresentação em Pptx  (https://github.com/debypivatto/-Sistema-Preditivo-para-Gestao-de-Medicamentos-Termolabeis/blob/main/SIP%20final.pptx)
+Disponivel apresentação em Pptx  (https://github.com/debypivatto/-Sistema-Preditivo-para-Gestao-de-Medicamentos-Termolabeis/blob/main/SIP%20final(3).pptx)
 
 ---
